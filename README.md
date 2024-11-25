@@ -1,7 +1,7 @@
 To initialize empty repository (--yes will not ask farther questions, auto take everything yes): <br>
-npm init --yes
+<b>npm init --yes</b>
 
-To install redux: 
-npm install redux --save
+To install redux: <br>
+<b>npm install redux --save</b>
 
 
